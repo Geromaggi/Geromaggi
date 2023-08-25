@@ -7,7 +7,7 @@ My name is Gero, I'm a Data Scientist. Here you have some information about me..
 ### Hard Skills :computer: : 
 
 - Python (pandas, numpy, seaborn, matplotlib, sickit learn, etc.)
-- Power BI - Looker - Tableau
+- Power BI - Looker 
 - SQL (SQL server, MySQL, PostgreSQL)
 - Google Cloud Platform (GCP)
 

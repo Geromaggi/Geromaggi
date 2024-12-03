@@ -3,18 +3,17 @@ I'm Gerónimo Maggi, a passionate Data Engineer with a focus on Data Analytics. 
 
 ### Hard Skills 🧑‍💻:
 * Python (pandas, numpy, seaborn, matplotlib, scikit-learn, etc.)
-
-Power BI & Looker Studio
-SQL (SQL Server, MySQL, PostgreSQL)
-Google Cloud Platform (GCP)
-Apache Spark
-Data Wrangling & ETL Processes
+* Power BI & Looker Studio
+* SQL (SQL Server, MySQL, PostgreSQL)
+* Google Cloud Platform (GCP)
+* Apache Spark
+* Data Wrangling & ETL Processes
 
 ### Soft Skills 💪:
-Efficiency: I’m highly focused and work hard to achieve goals on time.
-Constancy: I take consistent steps every day to improve my work.
-Teamwork: I love working in multidisciplinary teams and have experience using agile methodologies to deliver successful projects.
-Creativity: Always looking for new ways to solve problems and tackle challenges.
+* Efficiency: I’m highly focused and work hard to achieve goals on time.
+* Constancy: I take consistent steps every day to improve my work.
+* Teamwork: I love working in multidisciplinary teams and have experience using agile methodologies to deliver successful projects.
+* Creativity: Always looking for new ways to solve problems and tackle challenges.
 
 ### 📈 Current Experience:
 I’m currently working as a Data & Pricing Associate at Belong, where I work with large datasets, create insightful visualizations, and help optimize pricing strategies. I also have experience automating processes, handling campaigns, and collaborating in cross-functional teams.

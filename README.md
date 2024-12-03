@@ -1,31 +1,30 @@
 ### Hi there 👋
+I'm Gerónimo Maggi, a passionate Data Engineer with a focus on Data Analytics. I'm currently pursuing a degree in Software Engineering at the National Technological University (UTN) in Argentina. I’m always looking for ways to improve processes and gain insights from data!
 
-My name is Gero, I'm a Data Scientist. Here you have some information about me...
+### Hard Skills 🧑‍💻:
+Python (pandas, numpy, seaborn, matplotlib, scikit-learn, etc.)
+Power BI & Looker Studio
+SQL (SQL Server, MySQL, PostgreSQL)
+Google Cloud Platform (GCP)
+Apache Spark
+Data Wrangling & ETL Processes
 
-- 🔭 I’m a student of a Software Engineer in the National Technological University (UTN), here in Argentina. I like to work with data, especially with Data Engineer or Data Analytics. 
+### Soft Skills 💪:
+Efficiency: I’m highly focused and work hard to achieve goals on time.
+Constancy: I take consistent steps every day to improve my work.
+Teamwork: I love working in multidisciplinary teams and have experience using agile methodologies to deliver successful projects.
+Creativity: Always looking for new ways to solve problems and tackle challenges.
 
-### Hard Skills :computer: : 
+### 📈 Current Experience:
+I’m currently working as a Data & Pricing Associate at Belong, where I work with large datasets, create insightful visualizations, and help optimize pricing strategies. I also have experience automating processes, handling campaigns, and collaborating in cross-functional teams.
 
-- Python (pandas, numpy, seaborn, matplotlib, sickit learn, etc.)
-- Power BI - Looker 
-- SQL (SQL server, MySQL, PostgreSQL)
-- Google Cloud Platform (GCP)
+### 💬 Ask me anything!
+Feel free to reach out if you want to chat about data analysis, machine learning, or tech trends!
 
-### Soft Skills: :muscle:
-
-- Efficiency: When  I have a purpose, I do the best to get it. 
-- Constancy: Every day, I work with the things that  I have to do. 
-- Team Work: In one of my projects, I worked with 3 persons and we use agile methodologies. Working like this, our project was one of the best.  
-
-- 💬 Ask me about what you want! 
-
-### How to reach me 📫: 
-
-:link: https://www.linkedin.com/in/geronimo-maggi-data-scientist/
-
-:email: geromaggi5@gmail.com
-
-Thanks!
+### How to reach me 📫:
+🔗 LinkedIn
+📧 geromaggi5@gmail.com
+Thanks for stopping by! 👨‍💻🚀
 
 <!--
 **Geromaggi/Geromaggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,8 @@
 I'm Gerónimo Maggi, a passionate Data Engineer with a focus on Data Analytics. I'm currently pursuing a degree in Software Engineering at the National Technological University (UTN) in Argentina. I’m always looking for ways to improve processes and gain insights from data!
 
 ### Hard Skills 🧑‍💻:
-Python (pandas, numpy, seaborn, matplotlib, scikit-learn, etc.)
+* Python (pandas, numpy, seaborn, matplotlib, scikit-learn, etc.)
+
 Power BI & Looker Studio
 SQL (SQL Server, MySQL, PostgreSQL)
 Google Cloud Platform (GCP)
